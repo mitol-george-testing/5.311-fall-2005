@@ -1,0 +1,26 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Science",
+      "Chemistry"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "9801e3c1-6857-aa5f-94b4-071caf758d0d",
+      "64cde08e-416f-44e7-f350-b9a64e1b2d50",
+      "9609c386-5198-6de4-e7bb-27577049df1f"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Introductory Chemical Experimentation",
+  "course_description": "5.311 is the first of a three-term laboratory subject sequence for chemistry majors. Experimental work emphasizes development of fundamental laboratory skills and techniques: volumetric and colorimetric analysis; nuclear magnetic resonance; preparation, purification, and characterization of chemical substances; and data analysis.\n\nAcknowledgements\n----------------\n\nThe experiments for 5.311 have evolved over a period of many years and include contributions from past instructors, course textbooks, and others affiliated with the course. Thus for many of the lab documents, no single source can be attributed.\n\n**WARNING NOTICE**\n\nThe experiments described in these materials are potentially hazardous and require a high level of safety training, special facilities and equipment, and supervision by appropriate individuals. You bear the sole responsibility, liability, and risk for the implementation of such safety procedures and measures. MIT shall have no responsibility, liability, or risk for the content or implementation of any of the material presented.\n\n[Legal Notice](/terms/)\n",
+  "department_numbers": [
+    "5"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "5.311",
+  "learning_resource_types": [],
+  "title": "Course Metadata"
+}
